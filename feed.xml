@@ -1,0 +1,16 @@
+ <?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Plex Updates</title>
+  <link>https://bladepupper.github.io/</link>
+  <description>Plex Updates</description>
+  <item>
+    <title>The Thing</title>
+    <link>https://bladepupper.github.io/</link>
+    <description>If its working you should see this</description>
+	<pubDate>Mon, 6 Feb 2023</pubDate>
+  </item>
+</channel>
+
+</rss> 
